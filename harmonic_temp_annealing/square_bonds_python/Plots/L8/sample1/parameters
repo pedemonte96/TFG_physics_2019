@@ -1,0 +1,12 @@
+ ndim, L =            2           8
+ nbins, xlim          601   1.00000000    
+ nsamples =            1
+ nsmp_btw_write =            1
+ nsweeps =       300000
+ nsw_btw_meas =           10
+ nsw_btw_exc  =            2
+ istart  =            0
+ tmin  =   0.500000000    
+ tmax  =    2.00000000    
+ ntemp =           16
+ iseed  =   1188250664
