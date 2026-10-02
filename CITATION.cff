@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this repository and its project presentation when referencing this work."
+type: software
+title: "Machine Learning Approach to the Inverse Ising Problem"
+authors:
+  - family-names: "Pedemonte Bernat"
+    given-names: "Martí"
+repository-code: "https://github.com/pedemonte96/TFG_physics_2019"
+abstract: >-
+  Code, notebooks, and results for a BSc Physics final project at the
+  Universitat de Barcelona. The project studies inverse Ising inference
+  using maximum pseudolikelihood, simulated annealing, and gradient descent.
+keywords:
+  - inverse Ising problem
+  - statistical physics
+  - pseudolikelihood
+  - simulated annealing
+  - gradient descent
